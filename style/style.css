@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+    /* outline:1px solid pink; */
+}
+
+.contenedor{
+    width: 200px;
+    min-height: 30px;
+    background-color: #7a9dbb;
+    padding:15px;
+    border: 5px solid blue;
+}
+
+img{
+    width: 200px;
+    display:block;
+    border: 2px solid black;
+}
+
+.estilo_img_oculta{
+    display: none;
+}
